@@ -1,0 +1,14 @@
+* {
+  margin: 20;
+  padding: 20;
+  list-style: none;
+  text-decoration: none;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  box-sizing: border-box;
+}
+label,
+input,
+textarea {
+  display: block;
+}
